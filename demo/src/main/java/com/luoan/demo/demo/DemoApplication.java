@@ -11,6 +11,6 @@ public class DemoApplication {
     }
 
     public void function(){
-
+        System.out.println("再见");
     }
 }
